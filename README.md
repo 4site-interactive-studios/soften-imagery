@@ -35,6 +35,7 @@ Now when you visit a page, click the bookmarklet to inject the styles into your 
     html [src*='vimeo' i]:hover,
     html [style*='background: url' i]:hover,
     html [style*='background-image' i]:hover,
+    html [class~='background' i],
     html [class~='backgroundimage' i]:hover,
     html [class~='background-image' i]:hover,
     html [class~='background_image' i]:hover,
