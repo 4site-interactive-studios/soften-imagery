@@ -4,9 +4,9 @@ Some projects require you to work with graphic imagery, but that doesn't mean yo
 
 ## How to Use
 
-1. Copy the the code below and paste into this website https://mcdlr.com/css-inject/
-2. Then drag and drop the bookmarklet into your browser: https://d.pr/v/6sxmnm
-3. Now when you visit a page, click the bookmarklet to inject the styles into your page. https://d.pr/v/PLeEFA
+1. Copy the the code below and paste into this website [https://mcdlr.com/css-inject/](https://mcdlr.com/css-inject/)
+2. Then drag and drop the bookmarklet into your browser: [https://d.pr/v/6sxmnm](https://d.pr/v/6sxmnm)
+3. Now when you visit a page, click the bookmarklet to inject the styles into your page. [https://d.pr/v/PLeEFA](https://d.pr/v/PLeEFA)
 
 ### Code to Copy
 
