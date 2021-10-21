@@ -1,5 +1,3 @@
-# Soften Imagery
-
 Some projects require you to work with graphic imagery, but that doesn't mean you want to stare at it all day. The following CSS styles will try and blur, grayscale, and reduce opacity on all graphic images and video, with the option for a four second hover state to reveal the underlying media.
 
 Simply copy the the code below and paste into this website https://mcdlr.com/css-inject/
