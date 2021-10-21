@@ -46,7 +46,3 @@ Now when you visit a page, click the bookmarklet to inject the styles into your 
         opacity: 1;
         transition-duration: 4s;
     }
-    
-## Todo's
-* wrap it all in JS that adds an explicit class to img, picture, video, iframe with video elements. This way you have CSS catch alls for background media and explicit classes for inline media.
-* Add a bookmarklet that people can drag/drop directly from here
