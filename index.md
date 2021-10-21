@@ -1,10 +1,14 @@
 Some projects require you to work with graphic imagery, but that doesn't mean you want to stare at it all day. The following CSS styles will try and blur, grayscale, and reduce opacity on all graphic images and video, with the option for a four second hover state to reveal the underlying media.
 
-Simply copy the the code below and paste into this website https://mcdlr.com/css-inject/
+<img src="https://raw.githubusercontent.com/4site-interactive-studios/soften-imagery/main/before-and-after-v2.jpg" width="1024" />
 
-Then drag and drop the bookmarklet into your browser: https://d.pr/v/6sxmnm
+## How to Use
 
-Now when you visit a page, click the bookmarklet to inject the styles into your page. https://d.pr/v/PLeEFA
+1. Copy the the code below and paste into this website https://mcdlr.com/css-inject/
+2. Then drag and drop the bookmarklet into your browser: https://d.pr/v/6sxmnm
+3. Now when you visit a page, click the bookmarklet to inject the styles into your page. https://d.pr/v/PLeEFA
+
+### Code to Copy
 
     img,
     picture,
