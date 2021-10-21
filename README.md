@@ -2,7 +2,7 @@
 
 Some projects require you to work with graphic imagery, but that doesn't mean you want to stare at it all day. The following CSS styles will try and blur, grayscale, and reduce opacity on all graphic images and video, with the option for a four second hover state to reveal the underlying media.
 
-<img src="https://raw.githubusercontent.com/4site-interactive-studios/soften-imagery/main/before-and-after-v2.jpg" />
+<img src="https://raw.githubusercontent.com/4site-interactive-studios/soften-imagery/main/before-and-after-v2.jpg" style="max-width: 100%" alt="Screenshot of theatlantic.com homepage showing a before and after comparison of using the Soften Imagery bookmarklet">
 
 ## How to Use
 
