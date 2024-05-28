@@ -13,6 +13,8 @@ Some projects require you to work with graphic imagery, but that doesn't mean yo
 
 ### Code to Copy
 
+    *:before,
+    *:after,
     img,
     picture,
     video,
@@ -33,6 +35,8 @@ Some projects require you to work with graphic imagery, but that doesn't mean yo
         transition-timing-function: ease-in;
     }
     
+    html *:before:hover,
+    html *:after:hover,
     html img:hover,
     html picture:hover,
     html video:hover,
